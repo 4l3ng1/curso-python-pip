@@ -1,11 +1,11 @@
 #Game Project
 
-Para correr el juego debes seguir las instrucciones en la terminal
+Para correr el juego debes seguir las instrucciones en la terminal:
 
 ```sh
 cd game
 python3 main.py 
-```pip
+```
 
 #App Project
 ```sh
@@ -14,5 +14,4 @@ cd app
 source env/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
-git
 ```
